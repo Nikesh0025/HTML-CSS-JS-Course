@@ -6,6 +6,6 @@ This repository contains my solutions to the assignments of the Coursera course
 ## Assignments
 
 ### Module 2
-* [Assignment description](./descriptions/assignment2/Assignment-2.md)
-* Deadline: December 18, 11:59 PM PST
+* [Assignment description](Assignment/Module_2/assignment2_description/Assignment-2.md)
+* Deadline: September, 11:59 PM PST
 * [Solution](https://nikesh0025.github.io/HTML-CSS-JS-Course/Assignment/Module%202/)
