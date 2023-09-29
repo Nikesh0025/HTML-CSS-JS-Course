@@ -15,7 +15,12 @@ This repository contains my solutions to the assignments of the Coursera course
 * Deadline: September 17, 11:59 PM PST
 * [Solution](https://nikesh0025.github.io/HTML-CSS-JS-Course/Assignment/Module_3/)
 
-* ### Module 4
+### Module 4
 * [Assignment description](Assignment/module_4/assignment4_description/Assignment-4.md)
 * Deadline: September 27, 11:59 PM PST
 * [Solution](https://nikesh0025.github.io/HTML-CSS-JS-Course/Assignment/module_4/)
+
+### Module 5
+* [Assignment description](Assignment/module_4/assignment5_description/Assignment-5.md)
+* Deadline: October 4, 11:59 PM PST
+* [Solution](https://nikesh0025.github.io/HTML-CSS-JS-Course/Assignment/Module_5/)
