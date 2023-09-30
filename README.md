@@ -24,3 +24,5 @@ This repository contains my solutions to the assignments of the Coursera course
 * [Assignment description](Module_5/assignment5_description/Assignment-5.md)
 * Deadline: October 4, 11:59 PM PST
 * [Solution](https://nikesh0025.github.io/HTML-CSS-JS-Course/Module_5/)
+
+[certificate](https://coursera.org/share/accf40e8e9aad4e4e3af095d7ed80c38)
